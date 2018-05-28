@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1048046627334-fsah7rnu6mekc0luumsnf70l83t385sv.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://trying-d3d80.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1048046627334</string>
+    <string name="google_api_key" translatable="false">AIzaSyCTeK5M2jA0oFCvDZ1_Oq76m-J639MWT1M</string>
+    <string name="google_app_id" translatable="false">1:1048046627334:android:3db8b257c1bc890c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCTeK5M2jA0oFCvDZ1_Oq76m-J639MWT1M</string>
+    <string name="google_storage_bucket" translatable="false">trying-d3d80.appspot.com</string>
+    <string name="project_id" translatable="false">trying-d3d80</string>
+</resources>
